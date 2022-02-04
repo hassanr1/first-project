@@ -1,0 +1,153 @@
+*{
+    background-color: rgba(190, 34, 34, 0.897);
+    background-image: url(""); 
+}
+
+h1{
+    color:rgb(15, 14, 14);
+    font-size: 100px;
+    margin-left:32%;
+    margin-right:0%;
+    
+}
+h2{
+    font-size:30px;
+    margin-left:32%;
+    margin-right:auto;
+    display:block;}
+
+ .suprise {
+ font-size:120%;
+ width:600px;
+ padding:10px;
+ margin-left:auto;
+ margin-right:auto;
+ background-color: whitesmoke} 
+
+.atmosphere{
+    font-size:120%;
+ width:600px;
+ margin-left:auto;
+ margin-right:auto;
+ background-color: whitesmoke}
+
+.diaz{
+    font-size:120%;
+ width:600px;
+ margin-left:auto;
+ margin-right:auto;
+ background-color: whitesmoke}
+ .below{
+    font-size:120%;
+    width:600px;
+    margin-left:auto;
+    margin-right:auto;
+    background-color: whitesmoke
+ }
+.click{font-size:200%;}
+.name{font-size: 200%; display:block; margin-left: auto; margin-right: auto; width:600px}
+
+h4{    font-size: 30px;}
+
+
+#navbar{
+    font-size: 30px;
+    display: flex;
+    justify-content: space-evenly;
+    text-decoration: none;
+    color:black
+
+
+}
+
+#navbar a:hover{color:whitesmoke}
+#navbar a{color:black}
+
+
+
+
+.atmo{
+    width:50%;
+    margin-left:auto;
+    margin-right:auto;
+    display:block;
+}
+.logo{
+    width:14%;
+    margin-left:auto;
+    margin-right:auto;
+    display:block
+}
+.luiz{width:64%;
+    margin-left:auto;
+    margin-right:auto;
+    display:block}
+.anfiel{
+    width:60%;
+    margin-left:auto;
+    margin-right:auto;
+    display:block;
+
+}
+.team{
+    font-size:120%;
+ width:600px;
+ margin-left:auto;
+ margin-right:auto;
+ background-color: whitesmoke
+}
+
+.trophy{
+    width:60%;
+    margin-left:auto;
+    margin-right:auto;
+    display:block;
+}
+h4{
+    font-size:80px;
+}
+h3{
+    font-size:60px;
+}
+h6{
+    font-size:40px;
+}
+h5{
+    font-size:120%;
+ width:600px;
+ padding:10px;
+ margin-left:auto;
+ margin-right:auto;
+ background-color: whitesmoke
+}
+
+.mo{
+    width:30%;
+    margin-left:auto;
+    margin-right:auto;
+   display:block;}
+
+.container{
+    display:flex;
+    min-height: 10vh;
+    flex-direction:row;
+    justify-content:space-evenly;
+    align-items: flex-end;
+    
+}
+.box{
+    color: whitesmoke;
+    font-size: 100px;
+    text-align:center;
+    justify-content: space-evenly;
+}
+
+/* .box1 { }
+.box2 {}
+.box3 {background: rgb(0, 30, 128);} */
+/* .box4 {background:rgb(16, 31, 167);} */
+
+
+.gerrard{width:200px;}
+.torres{width:200px;}
+.alonso{width:180px;}
